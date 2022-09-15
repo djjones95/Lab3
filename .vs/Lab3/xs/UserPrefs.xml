@@ -1,4 +1,32 @@
 ﻿<Properties StartupConfiguration="{AE262B1D-92B4-440E-B9C7-5B31E92F8AD6}|Default">
-  <MonoDevelop.Ide.ItemProperties.Lab3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lab3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3/Person.cs">
+    <Files>
+      <File FileName="Lab3/Program.cs" Line="19" Column="40" />
+      <File FileName="Lab3/Person.cs" Line="58" Column="38" />
+      <File FileName="Lab3/SSN.cs" Line="9" Column="18" />
+      <File FileName="Lab3/Phone.cs" Line="8" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab3" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="Lab3" expanded="True">
+              <Node name="Person.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

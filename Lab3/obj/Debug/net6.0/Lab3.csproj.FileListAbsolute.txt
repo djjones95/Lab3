@@ -1,0 +1,15 @@
+/Users/djjones/Projects/Lab3/Lab3/bin/Debug/net6.0/Lab3
+/Users/djjones/Projects/Lab3/Lab3/bin/Debug/net6.0/Lab3.deps.json
+/Users/djjones/Projects/Lab3/Lab3/bin/Debug/net6.0/Lab3.runtimeconfig.json
+/Users/djjones/Projects/Lab3/Lab3/bin/Debug/net6.0/Lab3.dll
+/Users/djjones/Projects/Lab3/Lab3/bin/Debug/net6.0/Lab3.pdb
+/Users/djjones/Projects/Lab3/Lab3/obj/Debug/net6.0/Lab3.csproj.AssemblyReference.cache
+/Users/djjones/Projects/Lab3/Lab3/obj/Debug/net6.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djjones/Projects/Lab3/Lab3/obj/Debug/net6.0/Lab3.AssemblyInfoInputs.cache
+/Users/djjones/Projects/Lab3/Lab3/obj/Debug/net6.0/Lab3.AssemblyInfo.cs
+/Users/djjones/Projects/Lab3/Lab3/obj/Debug/net6.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/djjones/Projects/Lab3/Lab3/obj/Debug/net6.0/Lab3.dll
+/Users/djjones/Projects/Lab3/Lab3/obj/Debug/net6.0/refint/Lab3.dll
+/Users/djjones/Projects/Lab3/Lab3/obj/Debug/net6.0/Lab3.pdb
+/Users/djjones/Projects/Lab3/Lab3/obj/Debug/net6.0/Lab3.genruntimeconfig.cache
+/Users/djjones/Projects/Lab3/Lab3/obj/Debug/net6.0/ref/Lab3.dll
