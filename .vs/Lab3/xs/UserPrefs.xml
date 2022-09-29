@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{AE262B1D-92B4-440E-B9C7-5B31E92F8AD6}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lab3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Lab3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3/Person.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3/Program.cs">
     <Files>
-      <File FileName="Lab3/Program.cs" Line="19" Column="40" />
-      <File FileName="Lab3/Person.cs" Line="58" Column="38" />
-      <File FileName="Lab3/SSN.cs" Line="9" Column="18" />
-      <File FileName="Lab3/Phone.cs" Line="8" Column="17" />
+      <File FileName="Lab3/Program.cs" Line="5" Column="1" />
+      <File FileName="Lab3/Person.cs" Line="4" Column="24" />
+      <File FileName="Lab3/SSN.cs" Line="41" Column="29" />
+      <File FileName="Lab3/Phone.cs" Line="21" Column="51" />
+      <File FileName="Lab3/Dependent.cs" Line="6" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,7 +20,7 @@
           <Node name="Lab3" expanded="True">
             <Node name="Solution Items" expanded="True" />
             <Node name="Lab3" expanded="True">
-              <Node name="Person.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
